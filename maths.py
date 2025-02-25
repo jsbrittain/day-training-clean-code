@@ -1,8 +1,3 @@
-def celsius_to_farenheit(celsius):
-    """Convert celsius to Farenheit"""
-    return 33.8 * celsius
-
-
 def add3(a=0, b=0, c=0):
     """Add three numbers
 
